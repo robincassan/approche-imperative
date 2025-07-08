@@ -6,7 +6,7 @@ public class ExerciceTableauChaines {
         String[] tabVille = { "Paris", "Bordeaux", "Toulouse", "Montpellier","Lille"};
         System.out.println(Arrays.toString(tabVille));
         System.out.println(tabVille.length);
-        tabVille[2]="Reims";
+        tabVille[3]="Reims";
         System.out.println(Arrays.toString(tabVille));
     }
 }

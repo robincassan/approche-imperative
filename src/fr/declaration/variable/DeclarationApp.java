@@ -7,9 +7,9 @@ public class DeclarationApp {
     byte a = 1;
     short b = 2;
     int c = 3;
-    long d = 4;
-    float e = 5;
-    double f = 6;
+    long d = 28_344_786_734L;
+    float e = 5.567f;
+    double f = 6.4233;
     char g = 'a';
     boolean h = true;
     String i = "Hello world";
